@@ -17,7 +17,7 @@ You are now ready to start the challenges.
 1. Using the terminal create a new file called `git-terminology.txt` and add the snippet below to the file:
 
 ```txt
-git clone <github-link-here> - makes a local copy of the repo from the remote link
+git clone <github-link-here> - makes a local copy of the remote repo at the specified link
 git status - shows the state of files in our working directory and staging area
 git add <file-name> - adds a file from the working directory to the staging area
 git commit -m "<message-here>" - makes a commit including all changes in the staging area
