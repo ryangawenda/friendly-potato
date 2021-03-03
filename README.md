@@ -1,18 +1,18 @@
 # Collaborating with Git
 
-Your task is to work with a pair to practice using git.
+Your task is to work in a pair to practice using git.
 
 ## Setup
 
-1. One of your pair will need to _fork_ this repo to their own account.
-2. In the forked repo, go to 'Settings -> Manage Access -> Invite People' and add Pair 2's github account as a collaborator
+1. One of you will need to _fork_ this repo to their own account.
+2. In the forked repo, go to 'Settings -> Manage Access -> Invite People' and add perons 2's github account as a collaborator
 3. Then you can both make a local copy of the repo by running `git clone <link-to-pair-1s-forked-repo-here>`.
 
 You are now ready to start the challenges.
 
 ## Challenges
 
-### Pair 1:
+### Person 1
 
 1. Using the terminal create a new file called `git-terminology.txt` and add the snippet below to the file:
 
@@ -28,7 +28,7 @@ git commit -m "<message-here>" - makes a commit including all changes in the sta
 
 At this point, press refresh on the github page - you should be able to see the newly added file.
 
-### Pair 2
+### Person 2
 
 4. Pull your pair's changes down from github to your locally cloned repo
 5. Now that you also have the `git-terminology.txt`, add the definitions below:
@@ -45,7 +45,7 @@ git pull origin main - brings any recent changes to the remote repo's main branc
 
 Again, press refresh on the github page - you should be able to see the new changes.
 
-### Pair 1
+### Person 1
 
 9. Pull down the most recent commits.
 10. Add your favourite colour to `fun-facts.txt` and commit this change
