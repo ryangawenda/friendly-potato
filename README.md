@@ -5,8 +5,8 @@ Your task is to work in a pair to practice using git.
 ## Setup
 
 1. One of you will need to _fork_ this repo to their own account.
-2. In the forked repo, go to 'Settings -> Manage Access -> Invite People' and add perons 2's github account as a collaborator
-3. Then you can both make a local copy of the repo by running `git clone <link-to-pair-1s-forked-repo-here>`.
+2. In the forked repo, go to 'Settings -> Manage Access -> Invite People' and add person 2's github account as a collaborator
+3. Then you can both make a local copy of the repo by running `git clone <link-to-pair-1s-forked-repo-here>`. (Remember to `cd` into the repo!)
 
 You are now ready to start the challenges.
 
