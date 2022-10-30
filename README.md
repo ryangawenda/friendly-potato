@@ -52,3 +52,9 @@ Again, press refresh on the github page - you should be able to see the new chan
 9. Pull down the most recent commits.
 10. Add your favourite colour to `fun-facts.txt` and commit this change
 11. Push up your changes to github
+
+## Command Line Tasks
+
+Your next task is to practice your command line skills whilst collobarating on this [word play repo](https://github.com/northcoders/word-play).
+Repeat the same process for switching roles you did for the first tasks whilst working on the excercises.
+Make sure you're regularly committing your work at appropriate points.
