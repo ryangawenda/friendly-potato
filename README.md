@@ -1,11 +1,11 @@
 # Collaborating with Git
 
-Your task is to work in a pair to practice using git.
+Your task is to work in a pair to practise using git.
 
 ## Setup
 
 1. One of you will need to _fork_ this repo to their own account.
-2. In the forked repo, go to 'Settings -> Manage Access -> Invite People' and add person 2's github account as a collaborator
+2. In the forked repo, go to 'Settings -> Manage Access -> Invite People' and add person 2's github account as a collaborator.
 3. Then you can both make a local copy of the repo by running `git clone <link-to-pair-1s-forked-repo-here>`. (Remember to `cd` into the repo!)
 
 You are now ready to start the challenges.
@@ -25,14 +25,14 @@ git commit -m "<message-here>" - makes a commit including all changes in the sta
 
 _Hint: Think about what happens when you use double-quotes to wrap a string that contains double quotes!_
 
-2. Make a new commit to include this change
-3. Push this new change up to github
+2. Make a new commit to include this change.
+3. Push this new change up to github.
 
 At this point, press refresh on the github page - you should be able to see the newly added file.
 
 ### Person 2
 
-4. Pull your pair's changes down from github to your locally cloned repo
+4. Pull your pair's changes down from github to your locally cloned repo.
 5. Now that you also have the `git-terminology.txt`, add the definitions below:
 
 ```txt
@@ -50,8 +50,8 @@ Again, press refresh on the github page - you should be able to see the new chan
 ### Person 1
 
 9. Pull down the most recent commits.
-10. Add your favourite colour to `fun-facts.txt` and commit this change
-11. Push up your changes to github
+10. Add your favourite colour to `fun-facts.txt` and commit this change.
+11. Push up your changes to github.
 
 ## Command Line Tasks
 
@@ -82,7 +82,7 @@ Good luck 😄
 
 6. Create a file called `b--.txt` with all the words starting with the letter b and ending in exactly 2 vowels.
 
-7. Create a file consisting of all the 2 letters words. Store them in a file called `2_letters_only.txt`
+7. Create a file consisting of all the 2 letters words. Store them in a file called `2_letters_only.txt`.
 
 8. Create a file containing a count of all the words starting with p to all the words starting with r - store the count in a file called `p_to_r.txt`. **Add** a word count to the end of the `p_to_r.txt` with a word count for the file.
 
@@ -94,11 +94,11 @@ Here are a few extra tasks to help you get used to some of the JavaScript tools 
 
 In the `advanced.js` file we have imported in an array containing a list of words. Do not worry about how we've imported this in, it's something that will be covered later this week.
 
-The objective is to practice solving some similar problems to the ones from the previous command line section using JavaScript instead.
+The objective is to practise solving some similar problems to the ones from the previous command line section using JavaScript instead.
 
 You should not make any changes to the array within the file, any code you write should be below line 13.
 
-If you need any tips about how to tackle these tasks, please refer to our good friend, [MDN](https://developer.mozilla.org/en-US/)
+If you need any tips about how to tackle these tasks, please refer to our good friend, [MDN](https://developer.mozilla.org/en-US/).
 
 ### Tasks
 
